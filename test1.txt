@@ -5,3 +5,4 @@ master updationnewchange
 feature updates conflictupdates
 new fature update
 masterconflictchanges
+featureconflictcheckout
