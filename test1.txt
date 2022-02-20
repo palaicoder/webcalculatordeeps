@@ -6,3 +6,5 @@ feature updates conflictupdates
 new fature update
 masterconflictchanges
 featureconflictcheckout
+
+New clone edit -Deepa
