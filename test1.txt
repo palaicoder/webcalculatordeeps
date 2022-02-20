@@ -8,3 +8,4 @@ masterconflictchanges
 featureconflictcheckout
 
 New clone edit -Deepa
+New clone edit2 -Deepa
